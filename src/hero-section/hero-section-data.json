@@ -1,8 +1,26 @@
 [
     {
-        "id": "1",
         "title": "Hello i'am Evren Shan. Frontend Developer Based In IndiaHello i'am Evren Shan. Frontend Developer Based In India",
-        "description": "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book.",
-        "image": ""
+        "description": "I'm Evren Shah Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to specimen book."
+    },
+    {
+        "platform": "facebook",
+        "profileUrl": "facebook.com",
+        "logoimg": "https://raw.githubusercontent.com/palavandishvilin07-boop/portfolio-project-data/refs/heads/main/src/hero-section/images/facebook-icon.svg"
+    },
+     {
+        "platform": "discord",
+        "profileUrl": "discord.com",
+        "logoimg": "https://raw.githubusercontent.com/palavandishvilin07-boop/portfolio-project-data/refs/heads/main/src/hero-section/images/discord.svg"
+    },
+     {
+        "platform": "reddit",
+        "profileUrl": "reddit.com",
+        "logoimg": "https://raw.githubusercontent.com/palavandishvilin07-boop/portfolio-project-data/refs/heads/main/src/hero-section/images/reddit.svg"
+    },
+     {
+        "platform": "twitter",
+        "profileUrl": "twitter.com",
+        "logoimg": "https://raw.githubusercontent.com/palavandishvilin07-boop/portfolio-project-data/refs/heads/main/src/hero-section/images/twitter.svg"
     }
 ]
